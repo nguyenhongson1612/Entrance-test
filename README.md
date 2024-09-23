@@ -1,3 +1,19 @@
+# React-Redux Posts
+
+This is a React-Redux application that fetches and displays posts from the JSONPlaceholder API.
+
+## Features
+
+- Fetch and display posts
+- Add new posts using a form
+- Utilizes Redux for state management
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nguyenhongson1612/react-redux-posts.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
